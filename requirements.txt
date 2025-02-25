@@ -1,0 +1,4 @@
+Fastapi
+Uvicorn
+sqlalchemy
+aiosqlite
